@@ -1,3 +1,2 @@
-# Hemakshi
-First presentation
-by Hemakshi , chahat , sameer , arman
+# Presentation
+What is python?
